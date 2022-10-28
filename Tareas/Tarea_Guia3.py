@@ -63,7 +63,8 @@ cv2.imshow("S&P con DenoGauss",SP_DenoGauss)
 
 '''
 Para mi el mejor metodo para la eliminacion de ruido en  ambas imagenes  es  el de
-eliminacion de ruido por medias no locales, porque en ambos casos se mantiene
+eliminacion de ruido por medias no locales("fastNlMeansDenoisingColored"), 
+porque en ambos casos se mantiene
 una calidad y mayor y se disminuye en gran medida el ruido
 '''
 #Nota: se disminuyo el tamaño de la imagen para poder mostrarlo completamente 712x412
