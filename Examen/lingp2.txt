@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/57011993/matching-a-template-image-in-cv2-with-a-different-orientation
